@@ -13,7 +13,47 @@ Research Interests
 - Supervised and unsupervised learning methods  
 - Quantum information and computing  
 - Climate modelling and Earth system dynamics  
-- Convolutional neural networks and NLP modelling  
+- Convolutional neural networks and NLP modelling
+
+
+---
+
+Research Directions
+
+- Studying graph-based forecasting models (e.g., GraphCast) with a focus on hyperparameter sensitivity and comparative analysis across different graphical frameworks applied to the same climate phenomena.
+
+- Analyzing estimation biases in climate datasets and modelling pipelines, and understanding how these biases contribute to the emergence of spurious edges in graph neural networks.
+
+---
+
+Techinical Skills
+
+- Python – experience building GCN, GraphSAGE, and Graph Attention Network models  
+- PyTorch, TensorFlow – experience with CNNs and understanding model implementations  
+- HPC (Param Brahma, IISER Pune) – running ML workflows and handling large climate datasets in Linux  
+- SQL – writing and executing queries in terminal-based environments  
+- Matplotlib – basic plotting and visualization of spatial fields and anomalies
+
+---
+
+Future Interests
+
+- Interested in understanding how large language models (LLMs) work at a deeper level, and open to exploring any relevant papers or resources in this area  
+
+- Looking to read and explore papers at the intersection of deep learning and quantum information  
+
+---
+Education 
+- IISER Pune (2023-2028): BS-MS Dual Degree
+- IIT Guwahati (2025-2028): BSc in DS/AI
+- ST Johns High School,Chnadigarh
+
+For contact: divyansh.yecho@students.iiserpune.ac.in
+           : divyansh.yecho@op.iitg.ac.in
+
+
+
+
 
 
 <!--
