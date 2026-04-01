@@ -46,7 +46,7 @@ Future Interests
 Education 
 - IISER Pune (2023-2028): BS-MS Dual Degree
 - IIT Guwahati (2025-2028): BSc in DS/AI
-- ST Johns High School,Chnadigarh
+- ST Johns High School, Chandigarh
 
 For contact
 - divyansh.yecho@students.iiserpune.ac.in
