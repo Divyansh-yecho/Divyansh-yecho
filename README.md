@@ -49,8 +49,8 @@ Education
 - ST Johns High School,Chnadigarh
 
 For contact
-divyansh.yecho@students.iiserpune.ac.in
-divyansh.yecho@op.iitg.ac.in
+- divyansh.yecho@students.iiserpune.ac.in
+- divyansh.yecho@op.iitg.ac.in
 
 
 
