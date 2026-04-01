@@ -48,8 +48,9 @@ Education
 - IIT Guwahati (2025-2028): BSc in DS/AI
 - ST Johns High School,Chnadigarh
 
-For contact: divyansh.yecho@students.iiserpune.ac.in
-           : divyansh.yecho@op.iitg.ac.in
+For contact
+divyansh.yecho@students.iiserpune.ac.in
+divyansh.yecho@op.iitg.ac.in
 
 
 
